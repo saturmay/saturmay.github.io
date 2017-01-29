@@ -1,0 +1,20 @@
+.profile-picture {
+	max-width: 100%;
+}
+.html-prog-bar {
+	height: 100%;
+	background-color: #00be70;
+	font-color: #000000;
+}
+.MS-prog-bar {
+	height: 100%;
+	background-color: #295ea4;
+	font-color: #000000;
+}
+.lan-prog-bar{
+	height: 100%;
+	background-color: #fa5a5a;
+}
+.div{
+	font-family: 'Source Sans Pro', sans-serif;
+}
