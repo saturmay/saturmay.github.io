@@ -1,6 +1,24 @@
+body {
+  background-color: #f5f7f9;
+}
+
+.pattern {
+	width: 100%;
+	height: 200px;
+    background-image: url(https://s-media-cache-ak0.pinimg.com/736x/0a/63/0b/0a630be2b073f47d06a784ab085d46b1.jpg);
+   	margin-bottom: 50px;
+}
+
 .profile-picture {
+	background-color: #f26768;
+	position: absolute;
+	top: 100px;
+	width: 150px;
+	height: 150px;
+	left: 29%;
 	max-width: 100%;
 }
+
 .html-prog-bar {
 	height: 100%;
 	background-color: #00be70;
@@ -15,6 +33,44 @@
 	height: 100%;
 	background-color: #fa5a5a;
 }
-.div{
+div {
 	font-family: 'Source Sans Pro', sans-serif;
 }
+
+div p {
+	font-size: 14px;
+}
+
+nav{
+	height: 40px;
+	background-color: #91d1be;
+}
+
+nav a {
+    color: #000000;
+    font-size: 20px;
+}
+
+.card-title {
+  color: #295ea4;
+  font-weight: 500;
+}
+.card {
+  border-color: #ccc;
+}
+
+a {
+	color: 	#A9A9A9;
+}
+
+a:hover{
+	color: #000000;
+}
+
+#test:hover {
+	background-color:#f5f7f9;
+}
+
+
+
+
